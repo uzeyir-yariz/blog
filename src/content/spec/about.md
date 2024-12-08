@@ -1,6 +1,6 @@
-# hakkımda
+# Hakkımda
 
-## benim hakkımda
+## Benim Hakkımda
 
 **Merhaba!**  
 Ben **Üzeyir**, bir web geliştiricisi olarak dijital dünyada iz bırakmaya çalışan bir yazılım tutkunuyum. Kariyerime HTML, CSS ve JavaScript üçlüsüyle başlayan klasik bir yolculuktan, modern framework’lerle daha dinamik projeler geliştirmeye doğru bir adım attım.  
@@ -9,14 +9,14 @@ Son zamanlarda **React** ve **Astro** ile projelerimi bir üst seviyeye taşıyo
 
 Bu blog, hem öğrendiklerimi paylaşmak hem de yazılım yolculuğumu belgelendirmek için geliştirdiğim bir platform. Astro ile inşa ettiğim bu sitede, yeni yazılar, güncellemeler ve kişisel projelerimle ilgili paylaşımlar bulabilirsiniz.  
 
-Keyifle takipte kalın! 😊
+Keyifle takipte kalın! 😊  
 
-## şimdiye kadar yaptığım projeler
+---
 
-üç farklı web sitesi geliştirdim ve geliştirmeye devam ediyorum bunlar
+## Şimdiye Kadar Yaptığım Projeler
 
-kişisel web sitem [uzeyir-yariz](https://www.uzeyir-yariz.com.tr/)
+Şu ana kadar üç farklı web sitesi geliştirdim ve geliştirmeye devam ediyorum. İşte projelerim:  
 
-blog sitem [oldedb](https://www.oldedb.com.tr/)
-
-e-ticaret sitem [yusufcolakmedya](https://yusufcolakmedya.com.tr/)
+- **Kişisel web sitem**: [uzeyir-yariz.com.tr](https://www.uzeyir-yariz.com.tr/)  
+- **Blog sitem**: [oldedb.com.tr](https://www.oldedb.com.tr/)  
+- **E-ticaret sitem**: [yusufcolakmedya.com.tr](https://yusufcolakmedya.com.tr/)  
