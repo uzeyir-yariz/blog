@@ -138,6 +138,9 @@ importers:
       '@biomejs/biome':
         specifier: 1.8.3
         version: 1.8.3
+      '@iconify-json/entypo-social':
+        specifier: ^1.2.1
+        version: 1.2.1
       '@rollup/plugin-yaml':
         specifier: ^4.1.2
         version: 4.1.2(rollup@2.79.2)
@@ -1027,6 +1030,9 @@ packages:
 
   '@fontsource/roboto@5.1.0':
     resolution: {integrity: sha512-cFRRC1s6RqPygeZ8Uw/acwVHqih8Czjt6Q0MwoUoDe9U3m4dH1HmNDRBZyqlMSFwgNAUKgFImncKdmDHyKpwdg==}
+
+  '@iconify-json/entypo-social@1.2.1':
+    resolution: {integrity: sha512-uplWU0gC+yh1VCWcY0kaq0JIEq3DMpKoV5UnsoZVr2rjhQXuhyMJ78M5SGg8my7zqNbX7WPoaikiQJOG2PhtdA==}
 
   '@iconify-json/fa6-brands@1.2.1':
     resolution: {integrity: sha512-b/o9bDLZCP8qJV2dydewH+OWrpqmX94b7jHYnqzKaVpbuRRQX/qA9AROsy7rqHYup8fN2fCElQHvm6OYFmjkEA==}
@@ -5851,6 +5857,10 @@ snapshots:
   '@fontsource-variable/jetbrains-mono@5.1.1': {}
 
   '@fontsource/roboto@5.1.0': {}
+
+  '@iconify-json/entypo-social@1.2.1':
+    dependencies:
+      '@iconify/types': 2.0.0
 
   '@iconify-json/fa6-brands@1.2.1':
     dependencies:
