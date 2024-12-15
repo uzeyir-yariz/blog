@@ -1,5 +1,5 @@
 ---
-title: Zaman Yönetimi ve Günlük Hayattaki Sorunlar part 0
+title: Zaman Yönetimi part 0 | Günlük Hayattaki Sorunlar
 published: 2024-12-08
 description: 'zaman yönetimi, gündelik sorunlar ve çözümleri'
 image: 'zaman-yonetimi-cover.png'
@@ -9,7 +9,7 @@ draft: false
 lang: 'tr'
 ---
 
-# Zaman Yönetimi ve Günlük Hayattaki Sorunlar
+# Zaman Yönetimi part 0 | Günlük Hayattaki Sorunlar
 
 > bu ilk yazıdır
 
